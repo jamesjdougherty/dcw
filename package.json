@@ -1,0 +1,16 @@
+{
+  "name": "doughertycounselingandwellness",
+  "version": "1.0.0",
+  "description": "Website for Dougherty Counseling & Wellness",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "test": "test"
+  },
+  "author": "James Dougherty",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2",
+    "axios": "^0.26.0"
+  }
+}
